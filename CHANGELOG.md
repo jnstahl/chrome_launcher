@@ -1,3 +1,7 @@
+## 2.1.1
+
+* Upgraded Gradle to 7.6.3 and build tools to 7.3.1
+
 ## 2.1.0
 
 * Added Intent Categories ***BROWSABLE*** and ***DEFAULT*** when launching Chrome Intent
